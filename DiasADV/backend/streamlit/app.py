@@ -60,7 +60,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.image("innovent.png", width=200)
+# st.image("innovent.png", width=200)
 st.title("DIasADVGPT")
 st.write("Pesquisa de dicionário e glossário jurídico.")
 
