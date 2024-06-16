@@ -46,7 +46,7 @@ def chat_completion(question):
     return response.choices[0].message.content
 
 # Interface do Streamlit
-st.set_page_config(page_title="Page Title", layout="wide")
+st.set_page_config(page_title="Dias ADV - Innovent Solution", layout="wide")
 
 st.markdown("""
     <style>
