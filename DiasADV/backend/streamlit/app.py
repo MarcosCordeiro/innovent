@@ -4,14 +4,14 @@ from azure.core.credentials import AzureKeyCredential
 from azure.search.documents import SearchClient
 
 # Configurar o cliente OpenAI
-openai_endpoint = "https://gptdiasadv.openai.azure.com/"
-openai_key = "fd9814a748fc46179852b680e6c2fc11"
-openai_deployment_name = "DiasADVGPT"
+openai_endpoint = "https://diasadvopenai.openai.azure.com/"
+openai_key = "e8bebaadc5794b62858272834a6d4008"
+openai_deployment_name = "DiasADV"
 
 # Configurar serviço de busca
-search_endpoint = "https://diasadvsearch.search.windows.net"
-search_key = "ZDaDpiuX7zhpk73uA0VszYCqdSXNlM6U9aJSajnSMzAzSeBoVlvX"
-search_index = "idxfiles"
+search_endpoint = "https://diasadv.search.windows.net"
+search_key = "xjkrKd6c7sLMVv2KBk1NSsFlWWz5kkYTIbn6wmQBxUAzSeANGg5S"
+search_index = "diasindx"
 
 client = AzureOpenAI(azure_endpoint=openai_endpoint,
                      api_key=openai_key,
