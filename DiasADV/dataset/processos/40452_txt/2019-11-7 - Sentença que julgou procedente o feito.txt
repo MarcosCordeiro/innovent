@@ -1,0 +1,547 @@
+26/03/2024
+Número: 1005825-58.2019.4.01.3400
+ 
+ 
+Classe: APELAÇÃO CÍVEL 
+ Órgão julgador colegiado: 7ª Turma 
+ Órgão julgador: Gab. 19 - DESEMBARGADOR FEDERAL I'TALO FIORAVANTI SABO MENDES 
+ Última distribuição : 15/06/2020 
+ Valor da causa: R$ 1.000.000,00 
+ Processo referência: 1005825-58.2019.4.01.3400 
+ Assuntos: Taxa de Fiscalização Ambiental 
+ Segredo de justiça? NÃO 
+ Justiça gratuita? NÃO 
+ Pedido de liminar ou antecipação de tutela? SIM
+ 
+Tribunal Regional Federal da 1ª Região
+PJe - Processo Judicial Eletrônico
+Partes
+Procurador/Terceiro vinculado
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS BMW
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+NISSAN (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIAS
+CHEVROLET - ABRAC (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONC DE AUTOMOVEIS
+FIAT (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRACAM ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES DE AUTOMOVEIS MERCEDES- BENZ
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRACASE - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES CASE IH DO BRASIL (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+CITROEN (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIOS
+PEUGEOT ABRACO (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIOS
+YAMAHA ABRACY (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD -
+ABRADIF (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+TOYOTA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES NEW
+HOLLAND (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRAHY - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS HYUNDAI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD
+CAMINHOES - ABRAFOR (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRALAND JAGUAR - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS LAND ROVER E JAGUAR (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+PORSCHE   ABRAPORSCHE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ 
+ASSOCIACAO BRASILEIRA DOS CONCES.RENAULT
+ABRARE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRAV - ASSOC. BRASILEIRA DOS CONCESSIONARIOS
+DE AUTOMOVEIS VOLVO (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRAVO ASS BRASILEIRA DOS DISTRIBUIDORES VOLVO
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+SUZUKI AUTOMOVEIS - ABRAZUKI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO NACIONAL DOS CONCESSIONARIOS IVECO
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOAUDI - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES AUDI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ACAV - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS MAN LATIN AMERICA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+MERCEDES BENZ (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+SCANIA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE DIST VOLKSWAGEN
+ASSOBRAV (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES CHERY
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES DAF
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSODEERE - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES JOHN DEERE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+HARLEY DAVIDSON (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE DISTRIBUIDORES HONDA
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOKIA ASSOCIACAO BRASILEIRA DOS DISTRIB KIA
+MOTORS (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+AGRITECH (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOMIT - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES MITSUBISHI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOREVAL - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES AUTORIZADOS VALTRA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+MARCOPOLO-VOLARE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+AUTOHONDA-ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES HONDA DE VEICULOS AUTOMOTORES
+NACIONAIS E IMPORTADOS (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO NACIONAL DOS DISTRIB MASSEY
+FERGUSON S/C (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS
+RECURSOS NATURAIS RENOVAVEIS - IBAMA (APELANTE)
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS
+RECURSOS NATURAIS RENOVAVEIS - IBAMA (APELADO)
+JAVEP-VEICULOS, PECAS E SERVICOS LTDA (TERCEIRO
+INTERESSADO)
+FERNANDO AUGUSTO DE NANUZI E PAVESI (ADVOGADO)
+ZEVEL VEICULOS E PECAS LTDA (TERCEIRO
+INTERESSADO)
+FERNANDO AUGUSTO DE NANUZI E PAVESI (ADVOGADO)
+Documentos
+Id.
+Data da
+Assinatura
+Documento
+Tipo
+Polo
+59974533
+07/11/2019 19:17
+Sentença Tipo A
+Sentença Tipo A
+Interno
+Documento id 59974533 - Sentença Tipo A
+ 
+ 
+PODER JUDICIÁRIO 
+JUSTIÇA FEDERAL 
+Seção Judiciária do Distrito Federal 
+14ª Vara Federal Cível da SJDF
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SENTENÇA TIPO "A"
+ 
+PROCESSO: 1005825-58.2019.4.01.3400
+ 
+CLASSE: PROCEDIMENTO COMUM CÍVEL (7) 
+AUTOR: ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS BMW, ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS NISSAN, ASSOCIACAO BRASILEIRA DE CONCESSIONARIAS CHEVROLET - ABRAC,
+ASSOCIACAO BRASILEIRA DOS CONC DE AUTOMOVEIS FIAT, ABRACAM ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES DE AUTOMOVEIS MERCEDES- BENZ, ABRACASE - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES CASE IH DO BRASIL, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS CITROEN,
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIOS PEUGEOT ABRACO, ASSOCIACAO BRASILEIRA DE
+CONCESSIONARIOS YAMAHA ABRACY, ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD - ABRADIF,
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES TOYOTA, ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+NEW HOLLAND, ABRAHY - ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS HYUNDAI, ASSOCIACAO
+BRASILEIRA DOS DISTRIBUIDORES FORD CAMINHOES - ABRAFOR, ABRALAND JAGUAR - ASSOCIACAO
+BRASILEIRA DOS CONCESSIONARIOS LAND ROVER E JAGUAR, ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES PORSCHE ABRAPORSCHE, ASSOCIACAO BRASILEIRA DOS CONCES.RENAULT ABRARE,
+ABRAV - ASSOC. BRASILEIRA DOS CONCESSIONARIOS DE AUTOMOVEIS VOLVO, ABRAVO ASS BRASILEIRA
+DOS DISTRIBUIDORES VOLVO, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS SUZUKI AUTOMOVEIS -
+ABRAZUKI, ASSOCIACAO NACIONAL DOS CONCESSIONARIOS IVECO, ASSOAUDI - ASSOCIACAO BRASILEIRA
+DOS DISTRIBUIDORES AUDI, ACAV - ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS MAN LATIN
+AMERICA, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS MERCEDES BENZ, ASSOCIACAO BRASILEIRA
+DOS CONCESSIONARIOS SCANIA, ASSOCIACAO BRASILEIRA DE DIST VOLKSWAGEN ASSOBRAV,
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES CHERY, ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+DAF, ASSODEERE - ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES JOHN DEERE, ASSOCIACAO
+BRASILEIRA DOS CONCESSIONARIOS HARLEY DAVIDSON, ASSOCIACAO BRASILEIRA DE DISTRIBUIDORES
+HONDA, ASSOKIA ASSOCIACAO BRASILEIRA DOS DISTRIB KIA MOTORS, ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS AGRITECH, ASSOMIT - ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES MITSUBISHI,
+ASSOREVAL - ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES AUTORIZADOS VALTRA, ASSOCIACAO
+BRASILEIRA DOS CONCESSIONARIOS MARCOPOLO-VOLARE, AUTOHONDA-ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES HONDA DE VEICULOS AUTOMOTORES NACIONAIS E IMPORTADOS, ASSOCIACAO
+NACIONAL DOS DISTRIB MASSEY FERGUSON S/C
+ 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Num. 59974533 - Pág. 1
+Assinado eletronicamente por: WALDEMAR CLAUDIO DE CARVALHO - 07/11/2019 19:17:59
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=19110719175900000000059167479
+Número do documento: 19110719175900000000059167479
+ 
+<-
+Documento id 59974533 - Sentença Tipo A
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+Advogado do(a) AUTOR: DANIEL CORREA SZELBRACIKOWSKI - DF28468 
+ 
+ 
+RÉU: INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS - IBAMA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                            Sentença Tipo “A”
+ 
+ 
+ 
+ 
+ 
+ 
+Relatório:
+ 
+Trata-se ação sob o rito ordinário, com pedido de antecipação de tutela, ajuizada pela 
+Associação Brasileira dos Concessionários BMW – ABBM e outras objetivando a declaração de
+inexistência de relação jurídica tributária que obrigue as pessoas jurídicas revendedoras de veículos vinculadas
+às autoras ao recolhimento da Taxa de Fiscalização e Controle Ambiental (TCFA). Requer, subsidiariamente,
+seja declarado o direito de suas representadas ao recolhimento da TCFA em montantes calculados em
+conformidade com o baixo potencial poluidor de suas atividades e, ainda, considerando exclusivamente as
+Num. 59974533 - Pág. 2
+Assinado eletronicamente por: WALDEMAR CLAUDIO DE CARVALHO - 07/11/2019 19:17:59
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=19110719175900000000059167479
+Número do documento: 19110719175900000000059167479
+ 
+Documento id 59974533 - Sentença Tipo A
+receitas específicas das atividades de venda/troca de óleos lubrificantes/hidráulicos, desobrigando-as do
+pagamento de quaisquer diferenças apuradas em desacordo com esses critérios.
+ 
+Sustentam, em síntese: a) violação ao conceito de taxa (CF/88, art. 145, II e CTN, arts. 77 e 78
+parágrafo único). A TCFA é exigida sem que haja atividade estatal (fato gerador) que a justifique, pois o IBAMA
+não exerce fiscalização na hipótese aventada e nem poderia fazê-lo, por faltar-lhe competência para tanto; b) 
+ilegalidade da cobrança em face da Lei n. 6.938/81 (arts. 17-B e D). A exigência da TCFA é amparada em
+equiparação indevida da venda/troca de óleo realizadas pelas revendedoras de veículos àquelas atividades
+típicas de depósitos de produtos químicos/perigosos e distribuidoras de combustíveis. Isso equivale à criação
+de nova hipótese de incidência para a taxa, mediante simples interpretação do IBAMA e sem respaldo na
+referida lei, o que a torna ilegal (CF/88, arts. 5º, II e 150, I e CTN, art. 97); c) violação à isonomia e à
+proporcionalidade (CF/88, art. 5º, caput e LIV). A equiparação pretendida pelo IBAMA é anti-isonômica e
+desproporcional, já que implica tratar igualmente contribuintes que exercem atividades distintas, submetendo-
+os a idêntica carga tributária. E, ainda que procedesse a equiparação, a TCFA deveria ser calculada em função
+do baixo (e não alto) grau de risco representado pela venda/troca de óleo realizada em caráter
+residual/secundário pelas revendedoras de veículos e na exata medida da receita específica dessas atividades
+(ao invés da receita bruta total).
+ 
+Atribuíram à causa o valor de R$ 1.000.000,00.
+ 
+Juntaram procurações e documentos.
+ 
+O pedido de antecipação de tutela foi indeferido pela decisão de fls. 2699/ 2700 (rolagem única
+– ID 40270977), razão pela qual a parte autora noticiou a interposição de agravo de instrumento perante o
+Tribunal Regional Federal da 1ª Região (fls. 2706/2710 – rolagem única – ID 42766094), o qual foi negado
+provimento (fls. 2746/2749 – ID 50858511).
+ 
+Em sua contestação (fls. 2752/2764 – ID 56240171), o IBAMA sustentou a legalidade da exação
+posto que foi calculada em função da periculosidade do óleo lubrificante revendidos e armazenados pelas
+representadas das autoras, com base no enquadramento no cadastro técnico federal de atividades
+potencialmente poluidoras e/ou utilizadoras de recursos ambientais, bem como na cobrança realizada com
+base na receita bruta anual e não em nas receitas específicas das atividades de venda/troca de óleos
+lubrificantes/hidráulicos como pretende as autoras.      
+ 
+Réplica às fls. 2920/2926 – ID 64515685. 
+ 
+Petição requerendo a conversão de valores depositados às fls. 3561-3610.                  
+ 
+É o relatório. Decido.
+ 
+ 
+ 
+Fundamentação:
+ 
+A Taxa de Controle e Fiscalização Ambiental – TCFA, criada pela Lei 10.165/2000, tem como
+hipótese de incidência o exercício de poder de polícia (fiscalização) sobre atividades potencialmente
+poluidoras, definidas em lei.
+ 
+Essa conceituação desprende-se da leitura do art. 17-B da Lei 10.165/2000 que alterou a Lei
+6.938/81, dando-lhe a seguinte redação:
+Num. 59974533 - Pág. 3
+Assinado eletronicamente por: WALDEMAR CLAUDIO DE CARVALHO - 07/11/2019 19:17:59
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=19110719175900000000059167479
+Número do documento: 19110719175900000000059167479
+ 
+Documento id 59974533 - Sentença Tipo A
+Fica instituída a Taxa de Controle e Fiscalização Ambiental –TCFA, cujo fato gerador é o
+exercício regular do poder de polícia conferido ao Instituto Brasileiro do Meio Ambiente e dos Recursos
+Naturais Renováveis – Ibama para controle e fiscalização das atividades potencialmente poluidoras e
+utilizadoras de recursos naturais.
+ 
+Por sua vez, o art. 145 da Constituição Federal e o art. 77 do CTN estabelecem que a União,
+Estados, Municípios e o Distrito Federal poderão instituir taxas em razão do exercício do poder de polícia ou
+pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou
+postos à sua disposição.
+ 
+No presente caso, as representadas das autoras, revendedoras de veículos, viram-se
+enquadradas no item18 do anexo VIII da Lei n. 6.938/1981, na redação que lhe foi conferida pela Lei n.
+10.165/2000, categoria Transporte, Terminais, Depósitos e Comércio, que tem a seguinte descrição:
+ 
+ 
+ 
+“transporte de cargas perigosas, transporte por dutos; marinas, portos e aeroportos; terminais
+de minério, petróleo e derivados e produtos químicos; depósitos de produtos químicos e
+produtos perigosos; comércio de combustíveis, derivados de petróleo e produtos químicos e
+produtos perigosos.”
+ 
+ 
+ 
+ 
+O potencial de poluição (PP) e o grau de utilização (GU) de recurso naturais dessa atividade
+foram definidos como “Alto”.
+ 
+A questão é saber se a prestação de serviço de troca de óleo (e seu armazenamento) em
+comércio de revenda de automóveis está incluída como atividade potencialmente poluidora e no mais elevado
+grau.
+ 
+Tendo em vista que o volume de óleo lubrificante armazenado em cada uma das revendedoras
+autoras é relativamente pequeno, eis que servem apenas para trocas de óleo e que o referido serviço tem
+caráter eventual, não se justifica o enquadramento desse tipo de comércio como "depósito de produtos
+químicos e produtos perigosos ou comércio de combustíveis, derivados de petróleo e produtos químicos e
+produtos perigosos", à equiparação daquelas atividades listadas no item 18 do Anexo VIII da Lei n. 6.938/81,
+para fins de fiscalização de órgão ambiental.
+ 
+Com efeito, a Constituição Federal, em seu art. 150, item II, proíbe que a lei dispense
+tratamento desigual entre contribuintes que se encontrem em situação equivalente, o que por outro lado
+significa que contribuintes em situação desigual não podem ser tratados do mesmo modo.
+ 
+Na fixação do montante do tributo em tela, deve-se levar em consideração a atividade
+desenvolvida pelo contribuinte, sua potencialmente poluidora, o que não ocorre no caso de revendedoras de
+veículos automotores, que armazenam os lubrificantes em quantidades relativamente módicas, apenas para
+troca de óleo lubrificante quando da revisão períódica dos veículos em serviços de pós-venda, não havendo,
+portanto correlação entre essa atividade e o grau (tido por alto) de potencial poluidor previsto na citada
+legislação para fins de justificar a atuação, no caso concreto, do IBAMA.
+ 
+De qualquer modo, ainda que houvesse potencial poluidor, a inclusão de estabelecimentos do
+gênero revendedores de veículos, nos quais são devidamente armazenados alguns produtos (e em pequena
+quantidade) entre os descritos no item 18 do Anexo VIII da Lei nº 6.938, de 1981, na redação que lhe dera
+Num. 59974533 - Pág. 4
+Assinado eletronicamente por: WALDEMAR CLAUDIO DE CARVALHO - 07/11/2019 19:17:59
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=19110719175900000000059167479
+Número do documento: 19110719175900000000059167479
+ 
+Documento id 59974533 - Sentença Tipo A
+a Lei nº 10.165, de 2000, para fins de cobrança da Taxa de Controle e Fiscalização Ambiental, viola claramente
+o disposto no art. 150, item II, da Constituição.
+ 
+Nesse sentido:
+ 
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVADE. TAXA DE
+CONTROLE E FISCALIZAÇÃO AMBIENTAL. TCFA. CONCESSIONÁRIA. COMPRA E
+VENDA DE VEÍCULOS. ATIVIDADES NÃO ENQUADRADAS NO ANEXO VIII DA LEI Nº
+6.938/81, COM A REDAÇÃO DADA PELA LEI Nº 10.165/00. ATIVIDADE DE TROCA DE
+ÓLEO. ATIVIDADE POSTERIORMENTE RETIRADA DO ROL DAS POTENCIALMENTE
+POLUIDORAS. IN 05/2014. APLICAÇÃO RETROATIVA.
+ 
+1. Apelação interposta pelo IBAMA, em face da sentença que, acolhendo a Exceção de Pré-
+Executividade, extinguiu a Execução Fiscal, para reconhecer a não incidência da TCFA em
+razão das atividades desenvolvidas pela Empresa executada, seja quanto ao comércio
+varejista de veículos automotores, seja no que respeita à troca de óleo por ocasião das
+respectivas revisões, desconstituindo os lançamentos daí decorrentes. Houve
+condenação em honorários advocatícios, fixados em 10% do valor atualizado da causa, nos
+termos do art. 85, parágrafo 3º, I, também do CPC.
+ 
+2. A Taxa de Controle e Fiscalização Ambiental (TCFA) foi instituída pela Lei n.º 10.165/2000
+que, alterando a Lei 6.938/1981, determinou a sua cobrança no exercício regular do poder de
+polícia, pelo Ibama, a quem cabe controlar e fiscalizar as atividades potencialmente poluentes
+e utilizadoras de recursos naturais, sendo sujeito passivo da referida taxa todo aquele que
+exerça as atividades constantes do Anexo VIII dessa lei.
+ 
+3. A obrigação tributária do pagamento da supracitada taxa nasce a partir do efetivo exercício
+de atividade potencialmente poluidora ou utilizadora de recursos ambientais, de tal maneira
+que, ausente tais atividades, deixa de existir o fato gerador do tributo bem como a própria
+obrigação tributária, sendo irrelevante a informação constante nos cadastros do Ibama para
+determinar-se o surgimento e o desaparecimento do fato gerador da obrigação tributária.
+ 
+4. No caso, da análise do contrato social da Empresa executada, verifica-se que, no
+ramo de sua atuação, qual seja, comércio varejista de veículos nacionais e importados
+novos e usados, não há que se falar em comércio de combustíveis e outros derivados
+do petróleo.
+ 
+5. A Instrução Normativa nº 05/2014, ao reenquadrar a Empresa, que é revendedora de
+automóveis e que esporadicamente efetua troca de óleo, na categoria "outros serviços
+- troca de óleo lubrificante", não instituiu uma isenção em relação à atividade por ela
+prestada. De uma simples uma releitura das disposições contidas no art. 17, II, da Lei
+n. 6.938/81, observa-se que foi dada uma nova interpretação conferida a esse
+dispositivo, pois a lei não foi alterada.
+ 
+6. É de rigor a retroação dos efeitos da referida instrução normativa à obrigação tributária
+cujo fato gerador remonta ao ano de 2014, revelando-se descabida a cobrança da referida
+taxa realizada pelo Apelante.
+ 
+7. Impossibilidade de se pretender enquadrar a atividade empresária explorada pela
+Apelada, enquanto concessionária dedicada ao comércio varejista de veículos
+nacionais e importados novos e usados, como se vê de seu contrato social, dentre
+aquelas potencialmente poluidoras, não surgindo pelo seu mero registro no Cadastro
+Técnico Federal- CFT, notadamente sob enquadramento manifestamente equivocado, o
+dever de recolher a indigitada taxa, tal como consignado na sentença combatida.
+Num. 59974533 - Pág. 5
+Assinado eletronicamente por: WALDEMAR CLAUDIO DE CARVALHO - 07/11/2019 19:17:59
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=19110719175900000000059167479
+Número do documento: 19110719175900000000059167479
+ 
+Documento id 59974533 - Sentença Tipo A
+8. Apelação improvida. Honorários recursais, previstos no art. 85, parágrafo 11, do
+CPC/2015, a cargo do Apelante, devendo a verba honorária sucumbencial ser majorada de
+10% sobre o valor atualizado da causa para 11% sobre a mesma base de cálculo.
+ 
+(PROCESSO: 00037184220154058200, AC - Apelação Civel - , DESEMBARGADOR
+FEDERAL CID MARCONI, 3ª Turma do TRF5, JULGAMENTO: 03/10/2019, PUBLICAÇÃO: )
+destaquei
+ 
+                                                      
+ 
+ 
+III – Dispositivo: 
+ 
+Ante o exposto, acolho o pedido autoral para declarar a inexistência de relação jurídica que
+obrigue as pessoas jurídicas revendedoras de veículos vinculadas às autoras a recolher a TCFA em favor do
+réu, bem como para determinar ao réu que se abstenha de exigi-la das beneficiárias dessa ação.
+ 
+Defiro o pedido de tutela de urgência para determinar a suspensão da exigibilidade da TCFA
+das pessoas jurídicas revendedoras de veículos vinculadas às autoras.
+ 
+Postergo a análise do pedido formalizado por meio da petição de fls. 3561-3610, acerca da
+destinação dos depósitos efetivados nos presentes autos, para após o trânsito em julgado desta ação.
+ 
+Custas ex lege.
+ 
+Considerando a preponderância dos princípios da razoabilidade e da proporcionalidade sobre as
+regras do artigo 85 do NCPC, condeno a parte ré ao pagamento de honorários de sucumbência no valor de R$
+50.000,00 (cinquenta mil reais).
+ 
+Intimem-se. Oportunamente, arquivem-se.
+ 
+Brasília-DF, 05 de novembro de 2019.
+ 
+ 
+ 
+(assinatura eletrônica)
+ 
+WALDEMAR CLÁUDIO DE CARVALHO
+ 
+Juiz Federal da 14ª Vara do DF
+ 
+ 
+ 
+ 
+ 
+Num. 59974533 - Pág. 6
+Assinado eletronicamente por: WALDEMAR CLAUDIO DE CARVALHO - 07/11/2019 19:17:59
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=19110719175900000000059167479
+Número do documento: 19110719175900000000059167479
+ 
+

@@ -1,0 +1,631 @@
+26/03/2024
+Número: 1005825-58.2019.4.01.3400
+ 
+ 
+Classe: APELAÇÃO CÍVEL 
+ Órgão julgador colegiado: 7ª Turma 
+ Órgão julgador: Gab. 19 - DESEMBARGADOR FEDERAL I'TALO FIORAVANTI SABO MENDES 
+ Última distribuição : 15/06/2020 
+ Valor da causa: R$ 1.000.000,00 
+ Processo referência: 1005825-58.2019.4.01.3400 
+ Assuntos: Taxa de Fiscalização Ambiental 
+ Segredo de justiça? NÃO 
+ Justiça gratuita? NÃO 
+ Pedido de liminar ou antecipação de tutela? SIM
+ 
+Tribunal Regional Federal da 1ª Região
+PJe - Processo Judicial Eletrônico
+Partes
+Procurador/Terceiro vinculado
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS BMW
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+NISSAN (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIAS
+CHEVROLET - ABRAC (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONC DE AUTOMOVEIS
+FIAT (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRACAM ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES DE AUTOMOVEIS MERCEDES- BENZ
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRACASE - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES CASE IH DO BRASIL (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+CITROEN (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIOS
+PEUGEOT ABRACO (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIOS
+YAMAHA ABRACY (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD -
+ABRADIF (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+TOYOTA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES NEW
+HOLLAND (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRAHY - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS HYUNDAI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD
+CAMINHOES - ABRAFOR (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRALAND JAGUAR - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS LAND ROVER E JAGUAR (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+PORSCHE   ABRAPORSCHE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ 
+ASSOCIACAO BRASILEIRA DOS CONCES.RENAULT
+ABRARE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRAV - ASSOC. BRASILEIRA DOS CONCESSIONARIOS
+DE AUTOMOVEIS VOLVO (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRAVO ASS BRASILEIRA DOS DISTRIBUIDORES VOLVO
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+SUZUKI AUTOMOVEIS - ABRAZUKI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO NACIONAL DOS CONCESSIONARIOS IVECO
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOAUDI - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES AUDI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ACAV - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS MAN LATIN AMERICA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+MERCEDES BENZ (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+SCANIA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE DIST VOLKSWAGEN
+ASSOBRAV (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES CHERY
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES DAF
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSODEERE - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES JOHN DEERE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+HARLEY DAVIDSON (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE DISTRIBUIDORES HONDA
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOKIA ASSOCIACAO BRASILEIRA DOS DISTRIB KIA
+MOTORS (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+AGRITECH (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOMIT - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES MITSUBISHI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOREVAL - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES AUTORIZADOS VALTRA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+MARCOPOLO-VOLARE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+AUTOHONDA-ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES HONDA DE VEICULOS AUTOMOTORES
+NACIONAIS E IMPORTADOS (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO NACIONAL DOS DISTRIB MASSEY
+FERGUSON S/C (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS
+RECURSOS NATURAIS RENOVAVEIS - IBAMA (APELANTE)
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS
+RECURSOS NATURAIS RENOVAVEIS - IBAMA (APELADO)
+JAVEP-VEICULOS, PECAS E SERVICOS LTDA (TERCEIRO
+INTERESSADO)
+FERNANDO AUGUSTO DE NANUZI E PAVESI (ADVOGADO)
+ZEVEL VEICULOS E PECAS LTDA (TERCEIRO
+INTERESSADO)
+FERNANDO AUGUSTO DE NANUZI E PAVESI (ADVOGADO)
+Documentos
+Id.
+Data da
+Assinatura
+Documento
+Tipo
+Polo
+155883855 17/09/2021 17:25
+Acórdão
+Acórdão
+Interno
+Documento id 155883855 - Acórdão
+ 
+JUSTIÇA FEDERAL  
+Tribunal Regional Federal da 1ª Região
+PROCESSO: 1005825-58.2019.4.01.3400  PROCESSO REFERÊNCIA: 1005825-58.2019.4.01.3400
+CLASSE: APELAÇÃO CÍVEL (198) 
+POLO ATIVO: ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS BMW e outros
+REPRESENTANTE(S) POLO ATIVO: JULIO CESAR SOARES - DF29266-A e DANIEL CORREA SZELBRACIKOWSKI
+- DF28468-A
+POLO PASSIVO:INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-
+IBAMA
+RELATOR(A):JOSE AMILCAR DE QUEIROZ MACHADO
+ PODER JUDICIÁRIO
+Tribunal Regional Federal da 1ª Região
+Gab. 19 - DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO
+Processo Judicial Eletrônico
+APELAÇÃO CÍVEL (198)  n. 1005825-58.2019.4.01.3400
+R E L A T Ó R I O
+O EXMO. SR. DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO (RELATOR):
+Trata-se de embargos de declaração opostos pela Associação Brasileira dos
+Concessionários BMW e pelo IBAMA contra acórdão desta Turma que, à unanimidade,
+deu provimento à apelação do IBAMA  e negou provimento à apelação da embargante.
+Sustenta a Autora/embargante que o acórdão foi omisso, tendo-se em vista
+que deixou de se pronunciar sobre os argumentos expostos pelas embargantes e os
+fundamentos da r. sentença apelada, que apontam para a inexistência de plausibilidade
+jurídica das alegações feitas pelo IBAMA.
+Argumenta que a ilegitimidade da exigência da TCFA especificamente em
+face dos revendedores de veículos, não por violação à legalidade estrita na sua instituição
+genérica, mas, por violação ao conceito de taxa, em contrariedade ao disposto no art.
+145, II, da CF/88 e arts. 77 e 78, parágrafo único, do CTN, tão somente na hipótese
+objeto dos autos, uma vez que a TCFA é exigida dos revendedores de veículos sem que
+haja atividade estatal (fato gerador) de fato ou de direito que a justifique, na medida em
+que o IBAMA não exerce fiscalização na hipótese aventada e nem poderia fazê-lo, por
+faltar-lhe competência para tanto. 
+Alega omissão no julgado em razão de ponto alegado nas contrarrazões de
+Num. 155883855 - Pág. 1
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+<-
+<-
+Documento id 155883855 - Acórdão
+apelação apresentadas pela ora embargante no sentido da existência de argumento não
+contestado pelo IBAMA e suficiente para manter a procedência integral (ou, ao menos,
+parcial) do pedido formulado na inicial, no sentido de ser a TCFA inaplicável às atividades
+desenvolvidas por suas associadas também por tomar como parâmetro a receita bruta
+total das pessoas jurídicas elencadas como sujeitos passivos, quando tais atividades (no
+que tidas pelo IBAMA como potencialmente poluentes) correspondem a parcela ínfima
+(via de regra, inferior a 2%) da receita bruta total das revendedoras de veículos, fato esse
+comprovado nos autos e não contestado, sendo incontroverso. 
+Defende, ainda, a existência de omissão quanto à inaplicabilidade da TCFA
+às atividades de que se cuida por serem secundárias e distintas das atividades principais
+ali previstas como tributadas, demonstraram as ora embargantes que assim também o é
+em razão de a previsão legal dizer respeito a atividades com potencial poluidor alto,
+claramente não condizente com aquelas desenvolvidas por suas associadas, cujo
+potencial poluidor é inequivocamente baixo (como confirmam o senso comum e o laudo
+técnico acostado à inicial).
+Sustenta, também, a existência de omissão relativamente aos seguintes
+fatos:
+ 
+(i) à inexistência de potencial poluidor decorrente da atividade de substituição de óleo
+hidráulico ou lubrificante (e respectivos armazenamento e comercialização envolvidos);
+(ii) a tratar-se, quando muito, de atividade cujo eventual impacto ambiental seria
+exclusivamente local;
+(iii) à irrelevância das receitas das atividades tidas por supostamente poluidoras em relação
+à receita bruta total das empresas envolvidas (inferior a 2%); e
+(iv) ao grau de risco (se acaso existente) baixo das atividades de que se cuida. 
+ 
+O IBAMA também opôs embargos declaratórios, sustentando que houve
+omissão no julgado, tendo-se em vista que os honorários advocatícios não foram
+majorados na forma do disposto no art. 85, §11, do Código de Processo Civil.
+É o relatório.
+ Desembargador Federal JOSÉ AMILCAR MACHADO
+ Relator
+ 
+VOTO - VENCEDOR
+Num. 155883855 - Pág. 2
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+Documento id 155883855 - Acórdão
+ PODER JUDICIÁRIO
+Processo Judicial Eletrônico
+Tribunal Regional Federal da 1ª Região
+Gab. 19 - DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO
+APELAÇÃO CÍVEL (198)  n. 1005825-58.2019.4.01.3400
+V O T O
+O EXMO. SR. DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO (RELATOR):
+Embargos declaratórios da autora.
+Com efeito, o acórdão embargado deixou consignado o seguinte:
+ 
+Inicialmente, não há dúvidas de que o comércio e troca de óleo de automóveis é atividade
+que não foi afastada daquelas realizadas pelas recorrentes. Na condição de
+concessionárias de veículos, a troca de óleo é inerente ao serviço de oficina e assistência
+veicular que prestam as associadas das autoras.
+Demais, o Supremo Tribunal Federal, ao analisar violação ao art. 150, I, da Constituição
+(princípio da reserva legal tributária), consignou "ser constitucional a Taxa de Controle e
+Fiscalização Ambiental" (AI 860067 AgR/MG, Rel. Min. Rosa Weber, Primeira Turma, DJe
+5/3/2015).
+O IBAMA alega que as autoras estão inseridas no anexo VIII, da Lei 10.165/2000,  verbis:
+ 
+- transporte de cargas perigosas, transporte por
+dutos; marinas, portos e aeroportos; terminais de
+minério, petróleo e derivados e produtos químicos;
+depósitos de produtos químicos e produtos
+perigosos; comércio de combustíveis, derivados
+de petróleo e produtos químicos e produtos
+perigosos.
+ 
+ 
+Com efeito, conforme se verifica da legislação de regência, a atividade desenvolvida pelas
+concessionárias de veículos na troca de óleos lubrificantes está inserida nas hipóteses
+legais de incidência da Taxa de Controle e Fiscalização Ambiental.
+Conforme se verifica da legislação de regência, a atividade desenvolvida pelas
+concessionárias de veículos na comercialização e troca de óleos lubrificantes (manipulação
+Num. 155883855 - Pág. 3
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+<-
+Documento id 155883855 - Acórdão
+e venda) está inserida nas hipóteses legais de incidência da Taxa de Controle e
+Fiscalização Ambiental, conforme vem decidindo a jurisprudência. Nesse sentido: 
+ 
+TRIBUTÁRIO. TAXA DE CONTROLE DE FISCALIZAÇÃO AMBIENTAL.
+CONSTITUCIONALIDADE DECLARADA PELO COLENDO STF. INSCRIÇÃO NO
+CADASTRO TÉCNICO FEDERAL E PAGAMENTO DA REFERIDA TAXA. EMPRESA COM
+OBJETO SOCIAL DE "COMÉRCIO VAREJISTA DE GÁS LIQUEFEITO DE PETRÓLEO
+(GLP)". LEGALIDADE. LEI Nº 10165/2000 (QUE ALTEROU A LEI Nº 6.938/81) E IN/IBAMA
+Nº 96/2006. PRECEDENTE DO STJ E DESTA CORTE REGIONAL.
+1. A sentença julgou improcedentes pedidos para desobrigar a autora a proceder ao
+Cadastro Técnico Federal e anular o lançamento tributário da Taxa de Controle de
+Fiscalização Ambiental - TCFA.
+2. A recorrente alega que, por ser empresa de comércio varejista, está dispensada da
+TCFA, nos termos das INs IBAMA nºs 10/2001 e 96/2006.
+3. Constitucionalidade da TCFA reconhecida pelo Plenário do colendo STF (RE nº 416601).
+4. A legislação que rege a matéria dispõe: - Lei nº 10165/2000 (que alterou a Lei nº
+6.938/81): "Art. 17-C. É sujeito passivo da TCFA todo aquele que exerça as atividades
+constantes do Anexo VIII desta Lei." O seu Anexo VIII, ao discriminar as "Atividades
+Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais", estatui no Código
+18 o "comércio de combustíveis, derivados de petróleo. - IN IBAMA nº 96/2006: "Art. 11.
+Ficam dispensados de inscrição no Cadastro Técnico Federal: IV - o comércio varejista que
+tenha como mercadorias óleos lubrificantes, palmito, industrializado, carvão vegetal e xaxim,
+tais como, açougues, mercearias, frutarias, supermercados e demais estabelecimentos
+similares." O Anexo III da aludida IN traz como sujeito passivo ao pagamento do TCFA o
+"comércio varejista de gás liquefeito de petróleo (GLP)".
+5. In casu, o contrato social acostado aos autos demonstra que a autora tem por objeto o
+"comércio atacadista e varejista de Gás Liquefeito de Petróleo (GLP)".
+6. A empresa não está inserida no rol daquelas que estão dispensadas de inscrição no
+Cadastro Técnico Federal e do pagamento da TCFA. 7. Precedente do colendo STJ e desta
+Corte Regional.
+8. Apelação não provida.
+(AC - Apelação Civel - 0800141-97.2013.4.05.8101, Desembargador Federal Marcelo
+Navarro, TRF5 - Terceira Turma.).
+ 
+De remate, observo que, embora o julgado acima mencione a IN IBAMA 96/2006, esta
+Instrução Normativa foi expressamente revogada pela IN IBAMA 31/2009, alterando o artigo
+11, que dispensava o comércio varejista de combustíveis do registro no Cadastro Técnico
+Federal.
+Ante o exposto, nego provimento à apelação das autoras e dou provimento à apelação do
+IBAMA, para julgar improcedente o pedido formulado na inicial.
+Num. 155883855 - Pág. 4
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+Documento id 155883855 - Acórdão
+ 
+Com efeito, não há que se falar em omissão quanto ao potencial poluidor da
+embargante e quanto à constitucionalidade da cobrança, tendo-se em vista que esses
+pontos foram devidamente analisados no acórdão embargado.
+Demais, o Superior Tribunal de Justiça tem entendimento firmado no sentido
+de que não há falar em ausência de prestação jurisdicional, porquanto dada na medida da
+pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou
+fundamentadamente, de modo coerente e completo, as questões necessárias à solução
+da controvérsia, inexistindo, pois, a seu respeito, vício processual algum no acórdão
+então embargado.
+Se a decisão não deve prevalecer, ante a solução que deu à questão, não é
+em sede de embargos de declaração o momento próprio para perquirir-lhe o acerto ou
+desacerto, passível de discussão em via recursal própria perante superior instância.
+Quanto à potencialidade poluidora da embargante, destaco trecho da
+apelação do IBAMA, que define com precisão esse ponto:
+ 
+Nos termos da Resolução CONAMA nº 362, de 23 de junho de 2005:
+- o OLUC é resíduo perigoso tóxico, por classificação da ABNT NBR-10004:2004 (Resíduos
+Sólidos – Classificação);
+- a combustão de OLUC gera gases residuais nocivos ao meio ambiente e à saúde pública,
+restando ser inadequada qualquer destinação final desses óleos por meio de incineração; e
+- o descarte de OLUC no solo ou cursos d’água gera graves danos ambientais.
+Periculosidade do óleo lubrificante usado ou contaminado OLUC
+À semelhança de outros produtos industriais, ao término do ciclo produção-consumo de
+lubrificantes, tem-se a geração de resíduos conhecidos por Óleos Lubrificantes Usados ou
+Contaminados OLUC.
+Esses resíduos formados encerram alto grau de toxidade à saúde humana e ao meio
+ambiente. O OLUC é considerado um resíduo perigoso pela classificação da Norma ABNT
+NBR-10.004:2004, por apresentar ácidos orgânicos, Hidrocarbonetos Aromáticos
+Polinucleares (HPAs) e dioxinas, além de metais pesados como cádmio, níquel, chumbo,
+mercúrio, cromo e cobre, todos potencialmente carcinogênicos.
+ 
+Nestes termos, não há que se falar em baixo potencial poluidor, como
+pretendem as embargantes.
+Devendo ser ressaltado que não se trata de atividade esporádica, como
+afirmado nos embargos, uma vez que é notório que a troca de óleos lubrificantes é
+atividade rotineira com alta rotatividade de veículos nas concessionárias.
+Num. 155883855 - Pág. 5
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+Documento id 155883855 - Acórdão
+Quanto ao parâmetro a ser considerado para a incidência da TCFA, o
+entendimento firmado no Superior Tribunal de Justiça é no sentido de que é a receita
+bruta da empresa. Nesse sentido:
+ 
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS DE
+DECLARAÇÃO NO RECURSO ESPECIAL. ALEGAÇÃO DE OBSCURIDADE. ACOLHIDA E
+SANADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS
+MODIFICATIVOS.
+1. O parâmetro a ser considerado para o cálculo da TCFA é a receita bruta da pessoa
+jurídica e sua cobrança será feita uma única vez, por exercício fiscal, considerando a
+empresa como um todo (filiais e matriz).
+2. Afastado o fundamento adotado no acórdão recorrido, que levou em conta o faturamento
+apenas da unidade comercial, os autos devem retornar à origem para que prossiga no
+exame da causa.
+2. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no REsp 1795772/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA
+TURMA, julgado em 04/05/2021, DJe 10/05/2021)
+ 
+No que se refere à legalidade da cobrança pelo IBAMA, o art. 17-C da
+referida Lei 10.165/2000 prevê que “é sujeito passivo da TCFA todo aquele que exerça as
+atividades constantes do Anexo VIII desta Lei”.
+O acórdão embargado abordou expressamente o ponto constante do anexo
+VIII, não havendo que se falar em omissão, contradição ou obscuridade.
+Demais, considerando que todo empreendimento com atividade
+potencialmente poluidora enseja o pagamento da TCFA e deve ser cadastrado no
+ Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de
+Recursos Ambientais (CTF/APP), administrado pelo IBAMA.
+Embargos declaratórios do IBAMA.
+O aumento dos honorários em grau recursal tem como requisitos o
+julgamento desfavorável do recurso, seja pelo não conhecimento seja pelo desprovimento
+integral, e a existência de condenação do recorrente ao pagamento de honorários em
+primeiro grau. Nesse sentido o Superior Tribunal de Justiça.
+ 
+ 
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA – DECISÃO
+MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA
+REQUERIDA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se
+expressamente acerca dos temas necessários à integral solução da lide, de modo que,
+Num. 155883855 - Pág. 6
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+Documento id 155883855 - Acórdão
+ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a
+ofensa ao artigo 1.022 do Código de Processo Civil.
+2. No sistema da persuasão racional, adotado pela legislação processual civil (art. 130 e
+131, CPC/73; art. 371, CPC/15), o magistrado é livre para examinar o conjunto fático-
+probatório produzido nos autos para formar sua convicção, desde que indique de forma
+fundamentada os elementos de seu convencimento, como ocorreu na hipótese sub judice.
+3. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do
+CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a)
+decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de
+Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente
+ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a
+origem no feito em que interposto o recurso. (AgInt nos EREsp 1539725/DF, Rel. Ministro
+ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe
+19/10/2017).
+4. Agravo interno desprovido.
+AgInt no REsp 1731129 / SP. AGRAVO INTERNO NO RECURSO ESPECIAL
+2018/0064273-0. Relator(a): Ministro MARCO BUZZI. Órgão Julgador: QUARTA TURMA.
+Data do Julgamento: 17/12/2019. Data da Publicação/Fonte: DJe 03/02/2020.
+ 
+Na hipótese dos autos, os requisitos para a majoração dos honorários
+advocatícios estão art. 85, § 11, do CPC/2015 e não foram preenchidos, tendo-se em
+vista que o aumento dos honorários previstos na legislação processual pressupõe a
+condenação da parte em primeiro grau de jurisdição, o que não é o caso dos autos, uma
+vez que a autora, embora apelante, foi vencedora em primeira instância, portanto, credora
+de honorários advocatícios, não se aplicando a norma que determina a elevação dos
+honorários advocatícios.
+Ante o exposto, nego provimento aos embargos declaratórios do IBAMA e
+acolho os embargos declaratórios da autora, apenas para sanar as omissões apontadas,
+ficando mantido o resultado do julgamento.
+É como voto.
+Desembargador Federal JOSÉ AMILCAR MACHADO
+Relator
+ 
+ 
+ 
+ 
+ 
+ 
+Num. 155883855 - Pág. 7
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+Documento id 155883855 - Acórdão
+ 
+ 
+DEMAIS VOTOS
+ PODER JUDICIÁRIO
+Tribunal Regional Federal da 1ª Região
+Gab. 19 - DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO
+Processo Judicial Eletrônico
+APELAÇÃO CÍVEL (198) n.1005825-58.2019.4.01.3400
+APELANTE: ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS BMW, ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS NISSAN, ASSOCIACAO BRASILEIRA DE CONCESSIONARIAS CHEVROLET - ABRAC,
+ASSOCIACAO BRASILEIRA DOS CONC DE AUTOMOVEIS FIAT, ABRACAM ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES DE AUTOMOVEIS MERCEDES- BENZ, ABRACASE - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES CASE IH DO BRASIL, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS CITROEN,
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIOS PEUGEOT ABRACO, ASSOCIACAO BRASILEIRA DE
+CONCESSIONARIOS YAMAHA ABRACY, ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD - ABRADIF,
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES TOYOTA, ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES NEW HOLLAND, ABRAHY - ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS HYUNDAI,
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD CAMINHOES - ABRAFOR, ABRALAND JAGUAR -
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS LAND ROVER E JAGUAR, ASSOCIACAO BRASILEIRA
+DOS DISTRIBUIDORES PORSCHE ABRAPORSCHE, ASSOCIACAO BRASILEIRA DOS CONCES.RENAULT
+ABRARE, ABRAV - ASSOC. BRASILEIRA DOS CONCESSIONARIOS DE AUTOMOVEIS VOLVO, ABRAVO ASS
+BRASILEIRA DOS DISTRIBUIDORES VOLVO, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS SUZUKI
+AUTOMOVEIS - ABRAZUKI, ASSOCIACAO NACIONAL DOS CONCESSIONARIOS IVECO, ASSOAUDI -
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES AUDI, ACAV - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS MAN LATIN AMERICA, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS MERCEDES
+BENZ, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS SCANIA, ASSOCIACAO BRASILEIRA DE DIST
+VOLKSWAGEN ASSOBRAV, ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES CHERY, ASSOCIACAO
+BRASILEIRA DOS DISTRIBUIDORES DAF, ASSODEERE - ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+JOHN DEERE, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS HARLEY DAVIDSON, ASSOCIACAO
+BRASILEIRA DE DISTRIBUIDORES HONDA, ASSOKIA ASSOCIACAO BRASILEIRA DOS DISTRIB KIA MOTORS,
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS AGRITECH, ASSOMIT - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES MITSUBISHI, ASSOREVAL - ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+AUTORIZADOS VALTRA, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS MARCOPOLO-VOLARE,
+AUTOHONDA-ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES HONDA DE VEICULOS AUTOMOTORES
+NACIONAIS E IMPORTADOS, ASSOCIACAO NACIONAL DOS DISTRIB MASSEY FERGUSON S/C, INSTITUTO
+BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS - IBAMA
+Advogados do(a) APELANTE: DANIEL CORREA SZELBRACIKOWSKI - DF28468-A, JULIO CESAR SOARES -
+DF29266-A
+APELADO: INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA
+ 
+E M E N T A
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. TAXA DE
+CONTROLE DE FISCALIZAÇÃO AMBIENTAL. SUJEITO PASSIVI.  EMPRESA
+POTENCIALMENTE POLUIDORA. LEI 10.165/2000. INCIDÊNCIA SOBRE A RECEITA BRUTA.
+ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. HONORÁRIOS ADVOCATÍCIOS.
+MAJORAÇÃO DO PERCENTUAL. ART. 85, §11, DO CPC. REQUISITOS NÃO PREENCHIDOS.
+Num. 155883855 - Pág. 8
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+<-
+Documento id 155883855 - Acórdão
+1. A legislação que rege a matéria dispõe: - Lei nº 10165/2000 (que alterou a
+Lei nº 6.938/81): "Art. 17-C. É sujeito passivo da TCFA todo aquele que exerça as
+atividades constantes do Anexo VIII desta Lei." O seu Anexo VIII, ao discriminar as
+"Atividades Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais", estatui no
+Código 18 o "comércio de combustíveis, derivados de petróleo. - IN IBAMA nº 96/2006:
+"Art. 11. Ficam dispensados de inscrição no Cadastro Técnico Federal: IV - o comércio
+varejista que tenha como mercadorias óleos lubrificantes, palmito, industrializado, carvão
+vegetal e xaxim, tais como, açougues, mercearias, frutarias, supermercados e demais
+estabelecimentos similares." O Anexo III da aludida IN traz como sujeito passivo ao
+pagamento do TCFA o "comércio varejista de gás liquefeito de petróleo (GLP)".
+2. Não há que se falar em omissão quanto ao potencial poluidor da
+embargante e quanto à constitucionalidade da cobrança, tendo-se em vista que esses
+pontos foram devidamente analisados no acórdão embargado.
+3. Quanto à potencialidade poluidora da embargante, destaco trecho da
+apelação do IBAMA, que define com precisão esse ponto:
+Nos termos da Resolução CONAMA nº 362, de 23 de junho de 2005:
+- o OLUC é resíduo perigoso tóxico, por classificação da ABNT NBR-10004:2004 (Resíduos
+Sólidos – Classificação);
+- a combustão de OLUC gera gases residuais nocivos ao meio ambiente e à saúde pública,
+restando ser inadequada qualquer destinação final desses óleos por meio de incineração; e
+- o descarte de OLUC no solo ou cursos d’água gera graves danos ambientais.
+Periculosidade do óleo lubrificante usado ou contaminado OLUC
+À semelhança de outros produtos industriais, ao término do ciclo produção-consumo de
+lubrificantes, tem-se a geração de resíduos conhecidos por Óleos Lubrificantes Usados ou
+Contaminados OLUC.
+Esses resíduos formados encerram alto grau de toxidade à saúde humana e ao meio
+ambiente. O OLUC é considerado um resíduo perigoso pela classificação da Norma ABNT
+NBR-10.004:2004, por apresentar ácidos orgânicos, Hidrocarbonetos Aromáticos
+Polinucleares (HPAs) e dioxinas, além de metais pesados como cádmio, níquel, chumbo,
+mercúrio, cromo e cobre, todos potencialmente carcinogênicos.
+ 
+4. Nestes termos, não há que se falar em baixo potencial poluidor, como
+pretendem as embargantes.
+5. Devendo ser ressaltado que não se trata de atividade esporádica, como
+afirmado nos embargos, uma vez que é notório que a troca de óleos lubrificantes é
+atividade rotineira com alta rotatividade de veículos nas concessionárias.
+6. Quanto ao parâmetro a ser considerado para a incidência da TCFA, o
+entendimento firmado no Superior Tribunal de Justiça é no sentido de que é a receita
+bruta da empresa. Nesse sentido: EDcl no REsp 1795772/PE, Rel. Ministro MAURO
+Num. 155883855 - Pág. 9
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+Documento id 155883855 - Acórdão
+CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/05/2021, DJe 10/05/2021.
+7. No que se refere à legalidade da cobrança pelo IBAMA, o art. 17-C da
+referida Lei 10.165/2000 prevê que “é sujeito passivo da TCFA todo aquele que exerça as
+atividades constantes do Anexo VIII desta Lei”.
+8. O acórdão embargado abordou expressamente o ponto constante do
+anexo VIII, não havendo que se falar em omissão, contradição ou obscuridade.
+9. Demais, considerando que todo empreendimento com atividade
+potencialmente poluidora, como é o caso das associadas da embargante, enseja o
+pagamento da TCFA e deve ser cadastrado no  Cadastro Técnico Federal de Atividades
+Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais (CTF/APP),
+administrado pelo IBAMA.
+10. Não há que se falar em aumento dos honorários advocatícios, tendo-se
+em vista que os requisitos para a majoração estão art. 85, § 11, do CPC/2015 e não
+foram preenchidos, considerando que o aumento dos honorários previstos na legislação
+processual pressupõe a condenação da parte em primeiro grau de jurisdição, o que não é
+o caso dos autos, uma vez que a autora, embora apelante, foi vencedora em primeira
+instância, portanto, credora de honorários advocatícios, não se aplicando a norma que
+determina a elevação dos honorários advocatícios.
+11. Embargos declaratórios do IBAMA aos quais se nega provimento.
+12. Embargos declaratórios acolhidos, apenas para sanar a omissão
+apontada, mantido o resultado do julgamento.
+A C Ó R D Ã O
+Decide a Sétima Turma do Tribunal Regional Federal da 1ª Região, por
+unanimidade, negar provimento aos embargos declaratórios do IBAMA e acolher
+os embargos declaratórios da autora, para sanar a omissão apontada, ficando
+mantido o resultado do julgamento.
+Brasília, 14.09.2021.
+Desembargador Federal JOSÉ AMILCAR MACHADO
+Relator
+ 
+Num. 155883855 - Pág. 10
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/09/2021 17:25:27
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21091717252730800000152957967
+Número do documento: 21091717252730800000152957967
+ 
+

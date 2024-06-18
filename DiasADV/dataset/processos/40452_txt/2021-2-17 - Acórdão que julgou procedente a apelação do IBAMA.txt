@@ -1,0 +1,534 @@
+26/03/2024
+Número: 1005825-58.2019.4.01.3400
+ 
+ 
+Classe: APELAÇÃO CÍVEL 
+ Órgão julgador colegiado: 7ª Turma 
+ Órgão julgador: Gab. 19 - DESEMBARGADOR FEDERAL I'TALO FIORAVANTI SABO MENDES 
+ Última distribuição : 15/06/2020 
+ Valor da causa: R$ 1.000.000,00 
+ Processo referência: 1005825-58.2019.4.01.3400 
+ Assuntos: Taxa de Fiscalização Ambiental 
+ Segredo de justiça? NÃO 
+ Justiça gratuita? NÃO 
+ Pedido de liminar ou antecipação de tutela? SIM
+ 
+Tribunal Regional Federal da 1ª Região
+PJe - Processo Judicial Eletrônico
+Partes
+Procurador/Terceiro vinculado
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS BMW
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+NISSAN (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIAS
+CHEVROLET - ABRAC (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONC DE AUTOMOVEIS
+FIAT (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRACAM ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES DE AUTOMOVEIS MERCEDES- BENZ
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRACASE - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES CASE IH DO BRASIL (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+CITROEN (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIOS
+PEUGEOT ABRACO (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIOS
+YAMAHA ABRACY (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD -
+ABRADIF (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+TOYOTA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES NEW
+HOLLAND (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRAHY - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS HYUNDAI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD
+CAMINHOES - ABRAFOR (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRALAND JAGUAR - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS LAND ROVER E JAGUAR (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+PORSCHE   ABRAPORSCHE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ 
+ASSOCIACAO BRASILEIRA DOS CONCES.RENAULT
+ABRARE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRAV - ASSOC. BRASILEIRA DOS CONCESSIONARIOS
+DE AUTOMOVEIS VOLVO (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ABRAVO ASS BRASILEIRA DOS DISTRIBUIDORES VOLVO
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+SUZUKI AUTOMOVEIS - ABRAZUKI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO NACIONAL DOS CONCESSIONARIOS IVECO
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOAUDI - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES AUDI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ACAV - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS MAN LATIN AMERICA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+MERCEDES BENZ (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+SCANIA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE DIST VOLKSWAGEN
+ASSOBRAV (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES CHERY
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES DAF
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSODEERE - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES JOHN DEERE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+HARLEY DAVIDSON (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DE DISTRIBUIDORES HONDA
+(APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOKIA ASSOCIACAO BRASILEIRA DOS DISTRIB KIA
+MOTORS (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+AGRITECH (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOMIT - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES MITSUBISHI (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOREVAL - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES AUTORIZADOS VALTRA (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS
+MARCOPOLO-VOLARE (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+AUTOHONDA-ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES HONDA DE VEICULOS AUTOMOTORES
+NACIONAIS E IMPORTADOS (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+ASSOCIACAO NACIONAL DOS DISTRIB MASSEY
+FERGUSON S/C (APELANTE)
+DANIEL CORREA SZELBRACIKOWSKI (ADVOGADO)
+JULIO CESAR SOARES (ADVOGADO)
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS
+RECURSOS NATURAIS RENOVAVEIS - IBAMA (APELANTE)
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS
+RECURSOS NATURAIS RENOVAVEIS - IBAMA (APELADO)
+JAVEP-VEICULOS, PECAS E SERVICOS LTDA (TERCEIRO
+INTERESSADO)
+FERNANDO AUGUSTO DE NANUZI E PAVESI (ADVOGADO)
+ZEVEL VEICULOS E PECAS LTDA (TERCEIRO
+INTERESSADO)
+FERNANDO AUGUSTO DE NANUZI E PAVESI (ADVOGADO)
+Documentos
+Id.
+Data da
+Assinatura
+Documento
+Tipo
+Polo
+97115061
+17/02/2021 16:11
+Acórdão
+Acórdão
+Interno
+Documento id 97115061 - Acórdão
+ 
+JUSTIÇA FEDERAL
+Tribunal Regional Federal da 1ª Região
+PROCESSO Nº 1005825-58.2019.4.01.3400
+APELAÇÃO CÍVEL (198)
+APELANTE: ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS BMW e outros (38)
+APELADO: INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA
+RELATOR(A):JOSE AMILCAR DE QUEIROZ MACHADO
+ PODER JUDICIÁRIO
+Tribunal Regional Federal da 1ª Região
+Gab. 19 - DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO
+Processo Judicial Eletrônico
+APELAÇÃO CÍVEL (198)  n. 1005825-58.2019.4.01.3400
+R E L A T Ó R I O
+O EXMO. SR. DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO (RELATOR):
+Trata-se de recursos de apelação interpostos pela ASSOCIAÇÃO
+BRASILEIRA DOS CONCESSIONÁRIOS BMW e pelo IBAMA contra sentença que julgou
+procedente o pedido formulado na inicial, para declarar a inexistência de relação jurídica
+que obrigue as pessoas jurídicas revendedoras de veículos vinculadas às autoras a
+recolher a TCFA em favor do réu, bem como para determinar ao réu que se abstenha de
+exigi-la das beneficiárias dessa ação, condenando o IBAMA no pagamento de honorários
+de sucumbência no valor de R$ 50.000,00 (cinquenta mil reais).
+Sustenta o IBAMA que se trata de taxa cobrada em decorrência do poder de
+polícia e que   a TCFA tem por fato gerador o serviço efetivamente prestado, consistente
+no controle e fiscalização das atividades potencialmente poluidoras e fiscalizadoras de
+recursos naturais (art. 17-B), e tem como sujeito passivo quem exerce as atividades
+constantes de seu Anexo VIII (art. 17-C).
+Argumenta que no 'Anexo VIII' da lei nº 10.165/2000 estão explicitadas todas
+as empresas que exploram atividades consideradas potencialmente poluidores e que o
+armazenamento dos produtos como óleos lubrificantes sujeitam as requeridas aos
+recolhimento da TCFA.
+A autora recorre de parte da sentença que rejeitou a inclusão da Associação
+Brasileira dos Distribuidores Chrysler, Jeep, Dodge e Ram - ABRADIC, após a
+Num. 97115061 - Pág. 1
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/02/2021 16:11:50
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21021716114987700000095471557
+Número do documento: 21021716114987700000095471557
+ 
+<-
+<-
+Documento id 97115061 - Acórdão
+distribuição dos autos.
+É o relatório.
+ Desembargador Federal JOSÉ AMILCAR MACHADO
+ Relator
+ 
+VOTO - VENCEDOR
+ PODER JUDICIÁRIO
+Processo Judicial Eletrônico
+Tribunal Regional Federal da 1ª Região
+Gab. 19 - DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO
+APELAÇÃO CÍVEL (198)  n. 1005825-58.2019.4.01.3400
+V O T O
+O EXMO. SR. DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO (RELATOR):
+Recurso de apelação da autora.
+Com efeito, a recente jurisprudência vem se orientando no sentido de que
+nosso ordenamento jurídico veda a constituição de litisconsórcio facultativo após o
+ajuizamento da demanda, ante a violação do Juízo natural (CF 5º, XXXVII e LIII),
+devendo a formação do litisconsórcio ativo facultativo acontecer necessariamente no
+momento da distribuição do feito, pois, do contrário, permitiria ao litigante escolher o
+órgão julgador que seria responsável pelo processamento e julgamento da sua demanda. 
+Nesse sentido:
+ 
+PROCESSUAL CIVIL E TRIBUTÁRIO. LITISCONSÓRCIO FACULTATIVO ULTERIOR.
+VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. CONTRIBUIÇÃO PREVIDENCIÁRIA.
+ADMINISTRADORES, AUTÔNOMOS E AVULSOS. LEIS 7.787/89 E 8.212/91.
+COMPENSAÇÃO. ARTIGO 89, § 3º, DA LEI 8.212/91. LIMITAÇÕES INSTITUÍDAS PELAS
+LEIS 9.032/95 E 9.129/95. POSSIBILIDADE. JUROS DE MORA. TERMO INICIAL.
+REPETIÇÃO DE INDÉBITO. ARTIGOS 167, PARÁGRAFO ÚNICO, DO CTN, E SÚMULA
+188/STJ. APLICAÇÃO. SENTENÇA CONDENATÓRIA DO DIREITO À COMPENSAÇÃO
+DE INDÉBITO. REPETIÇÃO POR VIA DE PRECATÓRIO. POSSIBILIDADE.
+1. A inclusão de litisconsorte ativo facultativo, após a distribuição da ação judicial,
+configura desrespeito à garantia constitucional do Juiz Natural (artigo 5º, incisos
+XXXVII e LIII, da Constituição Federal de 1988), praxe que é coibida pela norma inserta
+no artigo 253, do CPC, segundo o qual as causas de qualquer natureza distribuir-se-
+ão por dependência quando, tendo sido extinto o processo, sem julgamento de
+mérito, for reiterado o pedido, ainda que em litisconsórcio com outros autores ou que
+sejam parcialmente alterados os réus da demanda (artigo 253, inciso II, do CPC, com a
+redação dada pela Lei 11.280/2006) (Precedentes do STJ: AgRg no MS 615/DF, Rel.
+Num. 97115061 - Pág. 2
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/02/2021 16:11:50
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21021716114987700000095471557
+Número do documento: 21021716114987700000095471557
+ 
+<-
+Documento id 97115061 - Acórdão
+Ministro Bueno de Souza, Corte Especial, julgado em 13.06.1991, DJ 16.03.1992; REsp
+24.743/RJ, Rel. Ministro Edson Vidigal, Quinta Turma, julgado em 20.08.1998, DJ
+14.09.1998; e REsp 931.535/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, julgado em
+25.10.2007, DJ 05.11.2007).
+2. A violação do princípio do juiz natural em virtude do ulterior ingresso de
+litisconsortes ativos facultativos, não atrai a incidência do artigo 113, § 2º, do CPC. Isto
+porque decorre da inobservância das regras de determinação de competência, e não em
+razão da incompetência do juízo, consoante se de depreende do seguinte excerto do voto-
+condutor do acórdão recorrido: "Com efeito, o juízo não é absolutamente incompetente,
+tanto que, no caso de nova apresentação da ação (havendo uma nova distribuição e, não,
+uma redistribuição), a lide poderia vir a ser julgada pelo mesmo juízo, mas desta vez com a
+estrita observância do princípio do juiz natural, pelo emprego das devidas e inafastáveis
+regras de distribuição de feitos." ... (STJ, REsp 796.064/RJ, Rel. Ministro LUIZ FUX,
+PRIMEIRA SEÇÃO, julgado em 22/10/2008, DJe 10/11/2008).
+  
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. ACP
+0011237-82.2003.403.6183.  LEGITIMIDADE. PLURALIDADE DE DEPENDENTES.
+LITISCONSÓRCIO FACULTATIVO POSTERIOR. CORREÇÃO MONETÁRIA.
+1 - Sobre a legitimidade, não há dúvidas de que o titular de pensão por morte ou, na falta
+deste, seus sucessores na forma da lei civil, independente de inventário ou
+arrolamento, possui legitimidade para pleitear, em nome próprio, o direito alheio
+concernente à revisão do benefício previdenciário recebido pelo segurado instituidor da
+pensão.
+2 -Também é sabido que nosso ordenamento jurídico veda a constituição de
+litisconsórcio facultativo após o ajuizamento da demanda, ante a violação do Juízo
+natural (CF 5º, XXXVII e LIII). Com efeito, a formação do litisconsórcio ativo facultativo
+deve acontecer necessariamente no momento da distribuição do feito, em respeito ao
+princípio do juiz natural , pois, do contrário, estar-se-ia permitindo ao litigante
+escolher o órgão julgador que seria responsável pelo processamento e julgamento da
+sua demanda. 
+3 - Dessa forma, somente é possível pleitear os atrasados decorrente da revisão do
+benefício em comento, a parte ativa que inicialmente ajuizou a ação, devendo ser
+reconhecida a ilegitimidade dos demais autores, - Por outro lado, é certo que a parte autora
+somente pode executar as diferenças relativas à sua cota-parte, tendo em vista que nosso
+sistema processual proíbe o pleito, em nome próprio, de direito alheio, salvo quando
+autorizado por lei (art. 78 do CPC).
+4 - Considerando que o título exequendo determinou a correção monetária nos termos do
+Manual de Cálculos da Justiça Federal, deve ser observada a Resolução 267, do CJF, que
+determina a incidência do INPC como critério de atualização. 
+5 - O manual de Cálculos foi instituído pelo Conselho da Justiça Federal com o objetivo de
+unificar os critérios de cálculo a serem aplicados a todos os processos sob sua jurisdição,
+na fase de execução, e seus parâmetros são estabelecidos com base na legislação vigente
+e na jurisprudência dominante, por meio de Resolução, devendo ser observada, sem ofensa
+à coisa julgada, a versão mais atualizada do manual, ainda mais considerando que a versão
+revogada (134/2010) contemplava, quanto à correção monetária, as alterações promovidas
+pela Lei nº 11.960/2009, declaradas inconstitucionais pelo Egrégio STF.
+(AGRAVO DE INSTRUMENTO AI 5001986-15.2019.4.03.0000. RELATOR: Desembargador
+Federal INES VIRGINIA PRADO SOARES, TRF3 - 7ª Turma, eDJF3 Judicial - DATA:
+Num. 97115061 - Pág. 3
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/02/2021 16:11:50
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21021716114987700000095471557
+Número do documento: 21021716114987700000095471557
+ 
+Documento id 97115061 - Acórdão
+01/07/2020.
+ 
+Mérito. 
+Recurso do IBAMA.
+Inicialmente, não há dúvidas de que o comércio e troca de óleo de
+automóveis é atividade que não foi afastada daquelas realizadas pelas recorrentes. Na
+condição de concessionárias de veículos, a troca de óleo é inerente ao serviço de oficina
+e assistência veicular que prestam as associadas das autoras.
+Demais, o Supremo Tribunal Federal, ao analisar violação ao art. 150, I, da
+Constituição (princípio da reserva legal tributária), consignou "ser constitucional a Taxa de
+Controle e Fiscalização Ambiental" (AI 860067 AgR/MG, Rel. Min. Rosa Weber, Primeira
+Turma, DJe 5/3/2015).
+O IBAMA alega que as autoras estão inseridas no anexo VIII, da Lei
+10.165/2000,  verbis:
+ 
+1
+8
+- transporte de cargas perigosas, transporte
+por dutos; marinas, portos e aeroportos; terminais de
+minério, petróleo e derivados e produtos químicos;
+depósitos de produtos químicos e produtos perigosos;
+comércio de combustíveis, derivados de petróleo e
+produtos químicos e produtos perigosos.
+ 
+ 
+Com efeito, conforme se verifica da legislação de regência, a atividade
+desenvolvida pelas concessionárias de veículos na troca de óleos lubrificantes está
+inserida nas hipóteses legais de incidência da Taxa de Controle e Fiscalização Ambiental.
+Conforme se verifica da legislação de regência, a atividade desenvolvida
+pelas concessionárias de veículos na comercialização e troca de óleos lubrificantes
+(manipulação e venda) está inserida nas hipóteses legais de incidência da Taxa de
+Controle e Fiscalização Ambiental, conforme vem decidindo a jurisprudência. Nesse
+sentido: 
+ 
+TRIBUTÁRIO. TAXA DE CONTROLE DE FISCALIZAÇÃO AMBIENTAL.
+CONSTITUCIONALIDADE DECLARADA PELO COLENDO STF. INSCRIÇÃO NO
+CADASTRO TÉCNICO FEDERAL E PAGAMENTO DA REFERIDA TAXA. EMPRESA COM
+Num. 97115061 - Pág. 4
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/02/2021 16:11:50
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21021716114987700000095471557
+Número do documento: 21021716114987700000095471557
+ 
+Documento id 97115061 - Acórdão
+OBJETO SOCIAL DE "COMÉRCIO VAREJISTA DE GÁS LIQUEFEITO DE PETRÓLEO
+(GLP)". LEGALIDADE. LEI Nº 10165/2000 (QUE ALTEROU A LEI Nº 6.938/81) E IN/IBAMA
+Nº 96/2006. PRECEDENTE DO STJ E DESTA CORTE REGIONAL.
+1. A sentença julgou improcedentes pedidos para desobrigar a autora a proceder ao
+Cadastro Técnico Federal e anular o lançamento tributário da Taxa de Controle de
+Fiscalização Ambiental - TCFA.
+2. A recorrente alega que, por ser empresa de comércio varejista, está dispensada da
+TCFA, nos termos das INs IBAMA nºs 10/2001 e 96/2006.
+3. Constitucionalidade da TCFA reconhecida pelo Plenário do colendo STF (RE nº 416601).
+4. A legislação que rege a matéria dispõe: - Lei nº 10165/2000 (que alterou a Lei nº
+6.938/81): "Art. 17-C. É sujeito passivo da TCFA todo aquele que exerça as atividades
+constantes do Anexo VIII desta Lei." O seu Anexo VIII, ao discriminar as "Atividades
+Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais", estatui no Código
+18 o "comércio de combustíveis, derivados de petróleo. - IN IBAMA nº 96/2006: "Art.
+11. Ficam dispensados de inscrição no Cadastro Técnico Federal: IV - o comércio
+varejista que tenha como mercadorias óleos lubrificantes, palmito, industrializado,
+carvão vegetal e xaxim, tais como, açougues, mercearias, frutarias, supermercados e
+demais estabelecimentos similares." O Anexo III da aludida IN traz como sujeito
+passivo ao pagamento do TCFA o "comércio varejista de gás liquefeito de petróleo
+(GLP)".
+5. In casu, o contrato social acostado aos autos demonstra que a autora tem por objeto o
+"comércio atacadista e varejista de Gás Liquefeito de Petróleo (GLP)".
+6. A empresa não está inserida no rol daquelas que estão dispensadas de inscrição no
+Cadastro Técnico Federal e do pagamento da TCFA. 7. Precedente do colendo STJ e desta
+Corte Regional.
+8. Apelação não provida.
+(AC - Apelação Civel - 0800141-97.2013.4.05.8101, Desembargador Federal Marcelo
+Navarro, TRF5 - Terceira Turma.).
+ 
+De remate, observo que, embora o julgado acima mencione a IN IBAMA
+96/2006, esta Instrução Normativa foi expressamente revogada pela IN IBAMA 31/2009,
+alterando o artigo 11, que dispensava o comércio varejista de combustíveis do registro no
+Cadastro Técnico Federal.
+Ante o exposto, nego provimento à apelação das autoras e dou provimento à
+apelação do IBAMA, para julgar improcedente o pedido formulado na inicial.
+Ficam invertidos os ônus da sucumbência (R$ 50.000,00), considerando que
+o valor atribuído à causa foi de  R$ 1.000.000,00 (um milhão de Reais). 
+É como voto.
+Desembargador Federal JOSÉ AMILCAR MACHADO
+Num. 97115061 - Pág. 5
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/02/2021 16:11:50
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21021716114987700000095471557
+Número do documento: 21021716114987700000095471557
+ 
+Documento id 97115061 - Acórdão
+Relator
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEMAIS VOTOS
+ PODER JUDICIÁRIO
+Tribunal Regional Federal da 1ª Região
+Gab. 19 - DESEMBARGADOR FEDERAL JOSÉ AMILCAR MACHADO
+Processo Judicial Eletrônico
+APELAÇÃO CÍVEL (198) n.1005825-58.2019.4.01.3400
+APELANTE: ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS BMW, ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS NISSAN, ASSOCIACAO BRASILEIRA DE CONCESSIONARIAS CHEVROLET - ABRAC,
+ASSOCIACAO BRASILEIRA DOS CONC DE AUTOMOVEIS FIAT, ABRACAM ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES DE AUTOMOVEIS MERCEDES- BENZ, ABRACASE - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES CASE IH DO BRASIL, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS CITROEN,
+ASSOCIACAO BRASILEIRA DE CONCESSIONARIOS PEUGEOT ABRACO, ASSOCIACAO BRASILEIRA DE
+CONCESSIONARIOS YAMAHA ABRACY, ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD - ABRADIF,
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES TOYOTA, ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES NEW HOLLAND, ABRAHY - ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS HYUNDAI,
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES FORD CAMINHOES - ABRAFOR, ABRALAND JAGUAR -
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS LAND ROVER E JAGUAR, ASSOCIACAO BRASILEIRA
+DOS DISTRIBUIDORES PORSCHE ABRAPORSCHE, ASSOCIACAO BRASILEIRA DOS CONCES.RENAULT
+ABRARE, ABRAV - ASSOC. BRASILEIRA DOS CONCESSIONARIOS DE AUTOMOVEIS VOLVO, ABRAVO ASS
+BRASILEIRA DOS DISTRIBUIDORES VOLVO, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS SUZUKI
+AUTOMOVEIS - ABRAZUKI, ASSOCIACAO NACIONAL DOS CONCESSIONARIOS IVECO, ASSOAUDI -
+ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES AUDI, ACAV - ASSOCIACAO BRASILEIRA DOS
+CONCESSIONARIOS MAN LATIN AMERICA, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS MERCEDES
+BENZ, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS SCANIA, ASSOCIACAO BRASILEIRA DE DIST
+VOLKSWAGEN ASSOBRAV, ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES CHERY, ASSOCIACAO
+BRASILEIRA DOS DISTRIBUIDORES DAF, ASSODEERE - ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+JOHN DEERE, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS HARLEY DAVIDSON, ASSOCIACAO
+BRASILEIRA DE DISTRIBUIDORES HONDA, ASSOKIA ASSOCIACAO BRASILEIRA DOS DISTRIB KIA MOTORS,
+ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS AGRITECH, ASSOMIT - ASSOCIACAO BRASILEIRA DOS
+DISTRIBUIDORES MITSUBISHI, ASSOREVAL - ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES
+AUTORIZADOS VALTRA, ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS MARCOPOLO-VOLARE,
+AUTOHONDA-ASSOCIACAO BRASILEIRA DOS DISTRIBUIDORES HONDA DE VEICULOS AUTOMOTORES
+NACIONAIS E IMPORTADOS, ASSOCIACAO NACIONAL DOS DISTRIB MASSEY FERGUSON S/C, INSTITUTO
+BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS - IBAMA
+Num. 97115061 - Pág. 6
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/02/2021 16:11:50
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21021716114987700000095471557
+Número do documento: 21021716114987700000095471557
+ 
+<-
+Documento id 97115061 - Acórdão
+Advogados do(a) APELANTE: DANIEL CORREA SZELBRACIKOWSKI - DF28468-A, JULIO CESAR SOARES -
+DF29266-A
+APELADO: INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA
+ 
+ 
+ 
+ 
+E M E N T A
+PROCESSUAL CIVIL E TRIBUTÁRIO. TAXA DE CONTROLE DE
+FISCALIZAÇÃO AMBIENTAL. LITISCONSÓRCIO FACULTATIVO APÓS A
+DISTRIBUIÇÃO DOS AUTOS. IMPOSSIBILIDADE. ASSOCIADAS DA AUTORA.
+ATUAÇÃO NA MANIPULAÇÃO E COMÉRCIO DE DERIVADOS DE COMBUSTÍVEIS.
+LEGALIDADE DA COBRANÇA. PEDIDO IMPROCEDENTE.
+1. A recente jurisprudência vem se orientando no sentido de que nosso
+ordenamento jurídico veda a constituição de litisconsórcio facultativo após o ajuizamento
+da demanda, ante a violação do Juízo natural (CF 5º, XXXVII e LIII), devendo a formação
+do litisconsórcio ativo facultativo acontecer necessariamente no momento da distribuição
+do feito, pois, do contrário, permitiria ao litigante escolher o órgão julgador que seria
+responsável pelo processamento e julgamento da sua demanda.  Nesse sentido: STJ,
+REsp 796.064/RJ, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 22/10/2008,
+DJe 10/11/2008 e AGRAVO DE INSTRUMENTO AI 5001986-15.2019.4.03.0000.
+RELATOR: Desembargador Federal INES VIRGINIA PRADO SOARES, TRF3 - 7ª Turma,
+eDJF3 Judicial - DATA: 01/07/2020.
+2. O Supremo Tribunal Federal, ao analisar violação ao art. 150, I, da
+Constituição (princípio da reserva legal tributária), consignou "ser constitucional a Taxa de
+Controle e Fiscalização Ambiental" (AI 860067 AgR/MG, Rel. Min. Rosa Weber, Primeira
+Turma, DJe 5/3/2015).
+3. O comércio e a troca de óleo em automóveis são atividades que não foram
+afastadas daquelas realizadas pelas recorrentes. Na condição de concessionárias de
+veículos, a troca de óleo é inerente ao serviço de oficina e assistência veicular que
+prestam as associadas das autoras.
+4. Conforme se verifica da legislação de regência, a atividade desenvolvida
+pelas concessionárias de veículos na troca de óleo lubrificantes (manipulação e
+venda) está inserida nas hipóteses legais de incidência da Taxa de Controle e
+Fiscalização Ambiental, conforme vem decidindo a jurisprudência. Nesse sentido: AC -
+Apelação Civel - 0800141-97.2013.4.05.8101, Desembargador Federal Marcelo Navarro,
+TRF5 - Terceira Turma.
+5. Apelação da autora a que se nega provimento.
+6. Apelação do IBAMA provida, para julgar improcedente o pedido.
+ 
+A C Ó R D Ã O
+Num. 97115061 - Pág. 7
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/02/2021 16:11:50
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21021716114987700000095471557
+Número do documento: 21021716114987700000095471557
+ 
+Documento id 97115061 - Acórdão
+Decide a Sétima Turma do Tribunal Regional Federal da 1ª Região, por
+unanimidade, negar provimento à apelação da autora e dar provimento à apelação
+do IBAMA.
+Brasília, 09.02.2021.
+Desembargador Federal JOSÉ AMILCAR MACHADO
+Relator
+Num. 97115061 - Pág. 8
+Assinado eletronicamente por: JOSE AMILCAR DE QUEIROZ MACHADO - 17/02/2021 16:11:50
+https://pje2g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=21021716114987700000095471557
+Número do documento: 21021716114987700000095471557
+ 
+

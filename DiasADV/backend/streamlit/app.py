@@ -11,7 +11,7 @@ openai_deployment_name = "DiasADV"
 # Configurar serviço de busca
 search_endpoint = "https://diasadv.search.windows.net"
 search_key = "xjkrKd6c7sLMVv2KBk1NSsFlWWz5kkYTIbn6wmQBxUAzSeANGg5S"
-search_index = "diasindx"
+search_index = "diasindx4o"
 
 client = AzureOpenAI(azure_endpoint=openai_endpoint,
                      api_key=openai_key,
@@ -44,6 +44,7 @@ def chat_completion(question):
                                               ])
     response_content = response.choices[0].message.content
     filepaths = [doc['filepath'] for doc in search_results]
+    
     return response_content, filepaths
 
 # Interface do Streamlit
@@ -73,8 +74,8 @@ if st.button("Enviar"):
             response_content, filepaths = chat_completion(question)
         st.write("**Resposta:**")
         st.write(response_content)
-        st.write("**Documentos relacionados:**")
-        for filepath in filepaths:
-            st.write(filepath)
+        # st.write("**Documentos relacionados:**")
+        # for filepath in filepaths:
+        #     st.write(filepath)
     else:
         st.write("Por favor, insira uma pergunta.")
