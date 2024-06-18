@@ -5,8 +5,8 @@ from azure.search.documents import SearchClient
 
 # Configurar o cliente OpenAI
 openai_endpoint = "https://diasadvopenai.openai.azure.com/"
-openai_key = "e8bebaadc5794b62858272834a6d4008"
-openai_deployment_name = "DiasADV"
+openai_key = "ba61df8ff6d641608ff1d196a77b2534"
+openai_deployment_name = "diaadv4o"
 
 # Configurar serviço de busca
 search_endpoint = "https://diasadv.search.windows.net"
