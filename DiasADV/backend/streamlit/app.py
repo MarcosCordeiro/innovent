@@ -11,28 +11,29 @@ openai_deployment_name = "diaadv4o"
 # Configurar serviço de busca
 search_endpoint = "https://diasadv.search.windows.net"
 search_key = "xjkrKd6c7sLMVv2KBk1NSsFlWWz5kkYTIbn6wmQBxUAzSeANGg5S"
-search_index = "diasindx4o"
+search_indices = ["i37706", "i39336", "i40452"]  # Lista de índices
 
 client = AzureOpenAI(azure_endpoint=openai_endpoint,
                      api_key=openai_key,
                      api_version="2024-02-15-preview")
 
-search_client = SearchClient(endpoint=search_endpoint,
-                             index_name=search_index,
-                             credential=AzureKeyCredential(search_key))
-
-# Função para realizar a busca
 def search_documents(question):
-    search_results = search_client.search(search_text=question, top=5)
-    documents = [{"content": result["content"], "filepath": result["filepath"]} for result in search_results if 'content' in result and 'filepath' in result]
-    return documents
+    all_documents = []
+    for index in search_indices:
+        search_client = SearchClient(endpoint=search_endpoint,
+                                     index_name=index,
+                                     credential=AzureKeyCredential(search_key))
+        search_results = search_client.search(search_text=question, top=5)
+        documents = [{"content": result["content"], "filepath": result["filepath"]} for result in search_results if 'content' in result and 'filepath' in result]
+        all_documents.extend(documents)
+    return all_documents
 
 # Definir a consulta de chat IA/completação com contexto da busca
 def chat_completion(question):
     search_results = search_documents(question)
     
     if not search_results:
-        return "Não há informações disponíveis no índice para responder à pergunta.", []
+        return "Não há informações disponíveis nos índices para responder à pergunta.", []
 
     # Construir mensagem com resultados da busca
     search_context = "\n".join([f"Conteúdo: {doc['content']}\nFilepath: {doc['filepath']}" for doc in search_results])
@@ -62,7 +63,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.image("https://advocaciadias.com/wp-content/uploads/2024/02/Logo-Dias-500-redondo.png", width=200)
+# st.image("https://advocaciadias.com/wp-content/uploads/2024/02/Logo-Dias-500-redondo.png", width=200)
 st.title("DIasADVGPT")
 st.write("Pesquisa de dicionário, glossário jurídico e processos.")
 
