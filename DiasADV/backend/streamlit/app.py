@@ -1,17 +1,18 @@
+import openai
 import streamlit as st
-from openai import AzureOpenAI
-from azure.core.credentials import AzureKeyCredential
+import random
+import time
 from azure.search.documents import SearchClient
+from azure.core.credentials import AzureKeyCredential
+from openai import AzureOpenAI
 
-# Configurar o cliente OpenAI
 openai_endpoint = "https://diasadvopenai.openai.azure.com/"
 openai_key = "ba61df8ff6d641608ff1d196a77b2534"
 openai_deployment_name = "diaadv4o"
 
-# Configurar serviço de busca
 search_endpoint = "https://diasadv.search.windows.net"
 search_key = "xjkrKd6c7sLMVv2KBk1NSsFlWWz5kkYTIbn6wmQBxUAzSeANGg5S"
-search_indices = ["i37706", "i39336", "i40452"]  # Lista de índices
+search_indices = ["i37706", "i39336", "i40452"]
 
 client = AzureOpenAI(azure_endpoint=openai_endpoint,
                      api_key=openai_key,
@@ -28,14 +29,12 @@ def search_documents(question):
         all_documents.extend(documents)
     return all_documents
 
-# Definir a consulta de chat IA/completação com contexto da busca
 def chat_completion(question):
     search_results = search_documents(question)
     
     if not search_results:
         return "Não há informações disponíveis nos índices para responder à pergunta.", []
 
-    # Construir mensagem com resultados da busca
     search_context = "\n".join([f"Conteúdo: {doc['content']}\nFilepath: {doc['filepath']}" for doc in search_results])
     prompt = f"Contexto dos resultados da pesquisa: {search_context}\n\nPergunta do usuário: {question}\nResponda estritamente com base no contexto fornecido e em português."
     
@@ -48,35 +47,36 @@ def chat_completion(question):
     
     return response_content, filepaths
 
-# Interface do Streamlit
-st.set_page_config(page_title="Dias ADV - Innovent Solution", layout="wide")
-
 st.markdown("""
     <style>
-        .reportview-container {
-            margin-top: -2em;
-        }
-        #MainMenu {visibility: hidden;}
-        .stDeployButton {display:none;}
-        footer {visibility: hidden;}
-        #stDecoration {display:none;}
+    .custom-image-container {
+        background-color: #4b4e54; /* cor de fundo */
+        padding: 10px; /* espaço ao redor da imagem */
+        border-radius: 10px; /* borda arredondada */
+        display: flex;
+        justify-content: center;
+    }
     </style>
 """, unsafe_allow_html=True)
 
-# st.image("https://advocaciadias.com/wp-content/uploads/2024/02/Logo-Dias-500-redondo.png", width=200)
-st.title("DIasADVGPT")
+st.markdown('<div class="custom-image-container"><img src="https://www.dsa.com.br/_2019/wp-content/themes/diasdesouza/img/logo-white.svg" width="300"></div>', unsafe_allow_html=True)
+
+st.title("DiasGPT")
 st.write("Pesquisa de dicionário, glossário jurídico e processos.")
 
-question = st.text_input("Pergunta:")
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
-if st.button("Enviar"):
-    if question:
-        with st.spinner("Processando..."):
-            response_content, filepaths = chat_completion(question)
-        st.write("**Resposta:**")
-        st.write(response_content)
-        # st.write("**Documentos relacionados:**")
-        # for filepath in filepaths:
-        #     st.write(filepath)
-    else:
-        st.write("Por favor, insira uma pergunta.")
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+
+if prompt := st.chat_input("Como posso ajuda-lo?"):
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+
+    response, filepaths = chat_completion(prompt)
+    with st.chat_message("assistant"):
+        st.markdown(response)
+    st.session_state.messages.append({"role": "assistant", "content": response})
